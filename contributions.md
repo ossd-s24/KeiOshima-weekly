@@ -29,6 +29,9 @@ Replace the first row with your own contribution.
 | April 06   | [Add local butcher shop](https://www.openstreetmap.org/changeset/149668968#map=19/40.63341/-74.00536) | OpenStreetMap | added local butcher shop near where I live |
 | April 06   | [Add local cafe](https://www.openstreetmap.org/changeset/149669479#map=19/40.63286/-74.00559) | OpenStreetMap | added local cafe near where I live |
 | April 06   | [Add local Vietnamese restaurant](https://www.openstreetmap.org/changeset/149669184#map=19/40.63287/-74.00490) | OpenStreetMap | added local Vietnamese restaurant near where I live |
+| April 11   | [Add grocery/deli store](https://www.openstreetmap.org/changeset/149888312#map=19/40.63715/-73.99993) | OpenStreetMap | added local grocery/deli store near where I live |
+| April 11   | [Add local hardware store](https://www.openstreetmap.org/changeset/149888484#map=19/40.63277/-74.00571) | OpenStreetMap | added local hardware store near where I live. |
+| April 11   | [Add local bathroom/kitchen furnishing store](https://www.openstreetmap.org/changeset/149888569#map=19/40.63507/-74.00227) | OpenStreetMap | added ocal bathroom/kitchen furnishing store near where I live. |
 
 
 
