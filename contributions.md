@@ -32,6 +32,8 @@ Replace the first row with your own contribution.
 | April 11   | [Add grocery/deli store](https://www.openstreetmap.org/changeset/149888312#map=19/40.63715/-73.99993) | OpenStreetMap | added local grocery/deli store near where I live |
 | April 11   | [Add local hardware store](https://www.openstreetmap.org/changeset/149888484#map=19/40.63277/-74.00571) | OpenStreetMap | added local hardware store near where I live. |
 | April 11   | [Add local bathroom/kitchen furnishing store](https://www.openstreetmap.org/changeset/149888569#map=19/40.63507/-74.00227) | OpenStreetMap | added ocal bathroom/kitchen furnishing store near where I live. |
-
-
+| April 24  | [Added title of manga artist notable works section](https://en.wikipedia.org/w/index.php?title=One_(manga_artist)&diff=prev&oldid=1220491350) | wikipedia| Added title of manga artist notable works section |
+| April 24  | [Update number of volumes for manga: Me and Robocco](https://en.wikipedia.org/w/index.php?title=Me_%26_Roboco&diff=prev&oldid=1220488481) | wikipedia| Update number of volumes for manga: Me and Robocco |
+| April 25  | [Added Hyper Link to manga artist other works](https://en.wikipedia.org/w/index.php?title=One_(manga_artist)&diff=prev&oldid=1220584098) | wikipedia| Added Hyper Link to manga artist 'One' other works |
+| April 25  | [Added English title for latest release of manga chapters](https://en.wikipedia.org/w/index.php?title=Four_Knights_of_the_Apocalypse&diff=prev&oldid=1220541103) | wikipedia| Added English title for latest release of manga chapters |
 
