@@ -36,4 +36,6 @@ Replace the first row with your own contribution.
 | April 24  | [Update number of volumes for manga: Me and Robocco](https://en.wikipedia.org/w/index.php?title=Me_%26_Roboco&diff=prev&oldid=1220488481) | wikipedia| Update number of volumes for manga: Me and Robocco |
 | April 25  | [Added Hyper Link to manga artist other works](https://en.wikipedia.org/w/index.php?title=One_(manga_artist)&diff=prev&oldid=1220584098) | wikipedia| Added Hyper Link to manga artist 'One' other works |
 | April 25  | [Added English title for latest release of manga chapters](https://en.wikipedia.org/w/index.php?title=Four_Knights_of_the_Apocalypse&diff=prev&oldid=1220541103) | wikipedia| Added English title for latest release of manga chapters |
-
+| April 26  | [Added popular webtoon series to ongoing list](https://en.wikipedia.org/w/index.php?title=Webtoon_(platform)&diff=prev&oldid=1220880108) | wikipedia| Added popular webtoon series teenage mercenary to ongoing list |
+| April 26  | [Added popular webtoon series to completed list](https://en.wikipedia.org/w/index.php?title=Webtoon_(platform)&diff=prev&oldid=1220879476) | wikipedia| Added popular webtoon series weak hero and god of higschool to completed list |
+| April 27  | [Added another beverage size for Arizona ice tea](https://en.wikipedia.org/w/index.php?title=Arizona_Beverage_Company&diff=prev&oldid=1221139562) | wikipedia| Added the 20 fluid oz of Arizona ice tea.|
